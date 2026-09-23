@@ -1,4 +1,4 @@
-# Cricket-RAG-Seach
+# Cricket-RAG-Search
 
 A beginner RAG (Retrieval-Augmented Generation) project built with **LangChain** — ask a question in the terminal, and it finds relevant passages from a cricket document using semantic search, then uses an LLM to generate a direct answer grounded in that context.
 
